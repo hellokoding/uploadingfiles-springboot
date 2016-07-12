@@ -1,7 +1,7 @@
 # Uploading Files Example with Spring Boot, FreeMarker
 
 ## Guide
-https://hellokoding.com/upload-multiple-files-example-with-spring-boot/
+https://hellokoding.com/uploading-multiple-files-example-with-spring-boot/
 
 ## What you'll need
 - JDK 1.7+
