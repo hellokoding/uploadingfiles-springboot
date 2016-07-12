@@ -1,15 +1,17 @@
 # Uploading Files Example with Spring Boot, FreeMarker
 
 ## Guide
-https://hellokoding.com/spring-boot-hello-world-example-with-freemarker/
+https://hellokoding.com/upload-multiple-files-example-with-spring-boot/
 
 ## What you'll need
-- JDK 1.7 or later
-- Maven 3 or later
+- JDK 1.7+
+- Maven 3+
 
 ## Stack
-- Spring Boot
 - Java
+- Spring Boot
+- FreeMarker
+- JavaScript
 
 ## Run
 `mvn spring-boot:run`
